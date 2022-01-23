@@ -36,6 +36,9 @@ $ pip install flask-login
 - install Email-validator:
 $ pip install email_validator
 
+- install Flask-Bootstrap:
+$ pip install flask-bootstrap
+
 - setting the FLASK_APP environment variable:
 $ export FLASK_APP=microblog.py
 
